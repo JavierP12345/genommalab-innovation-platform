@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 60" width="260" height="60">
+  <!-- Gear/emblem circle -->
+  <circle cx="30" cy="30" r="26" fill="#0D4FA3"/>
+  <!-- Gear teeth -->
+  <rect x="27" y="1" width="6" height="8" rx="2" fill="#0D4FA3"/>
+  <rect x="27" y="51" width="6" height="8" rx="2" fill="#0D4FA3"/>
+  <rect x="1" y="27" width="8" height="6" rx="2" fill="#0D4FA3"/>
+  <rect x="51" y="27" width="8" height="6" rx="2" fill="#0D4FA3"/>
+  <rect x="8" y="8" width="6" height="6" rx="1" fill="#0D4FA3" transform="rotate(45 11 11)"/>
+  <rect x="45" y="8" width="6" height="6" rx="1" fill="#0D4FA3" transform="rotate(45 48 11)"/>
+  <rect x="8" y="46" width="6" height="6" rx="1" fill="#0D4FA3" transform="rotate(45 11 49)"/>
+  <rect x="45" y="46" width="6" height="6" rx="1" fill="#0D4FA3" transform="rotate(45 48 49)"/>
+  <!-- Inner circle white -->
+  <circle cx="30" cy="30" r="18" fill="white"/>
+  <!-- G letter -->
+  <text x="30" y="37" font-family="Arial,sans-serif" font-size="22" font-weight="900" fill="#0D4FA3" text-anchor="middle">G</text>
+  <!-- Brand name -->
+  <text x="74" y="24" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#0D4FA3" letter-spacing="-0.3">Genomma</text>
+  <text x="74" y="44" font-family="Arial,sans-serif" font-size="14" font-weight="400" fill="#0D4FA3" letter-spacing="0.5">Lab.</text>
+  <text x="142" y="44" font-family="Arial,sans-serif" font-size="9" font-weight="400" fill="#6B87B5" letter-spacing="0.3"> Internacional</text>
+</svg>

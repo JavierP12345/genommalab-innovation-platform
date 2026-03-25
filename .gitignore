@@ -1,0 +1,5 @@
+*.log
+*.bat
+__pycache__/
+.env
+*.pyc
